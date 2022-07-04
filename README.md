@@ -1,1 +1,3 @@
-# git-practice
+# Git Practice
+
+Gwen Faraday's Youtube tutorial
